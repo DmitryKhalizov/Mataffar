@@ -21,7 +21,7 @@ public class Main {
             "3. Search in the inventory and add to customer basket",
             "4. Exit.",
             "5. Add new employee.",
-            "6. Manage sale campaign."
+            "6. Manage sale campaign ."
     };
 
     public static void main(String[] args) {
